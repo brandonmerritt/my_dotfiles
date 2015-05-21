@@ -1,0 +1,30 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS3_Syntax",
+		"EditorConfig",
+		"Ember.js Snippets",
+		"EmberScript",
+		"Foundation 5 Snippets",
+		"Grunt",
+		"Handlebars",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScript Refactor",
+		"JavaScriptNext - ES6 Syntax",
+		"jQuery",
+		"JSLint",
+		"Markdown Extended",
+		"MultiEditUtils",
+		"Package Control",
+		"Sass",
+		"Simple Ember.js Navigator",
+		"SublimeCodeIntel",
+		"Theme - Afterglow"
+	]
+}
