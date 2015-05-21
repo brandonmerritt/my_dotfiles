@@ -1,2 +1,4 @@
-# my_dotfiles
-my_dotfiles
+# Dot Files
+Added existing dotfiles.
+Need to clean up VIM.
+Need to alter some colors.
